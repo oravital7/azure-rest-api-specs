@@ -344,7 +344,7 @@
         "GCP"
       ],
       "x-ms-enum": {
-        "name": "StandardSupportedClouds",
+        "name": "StandardSupportedCloudsEnum",
         "modelAsString": false
       }
     }
