@@ -345,7 +345,7 @@
       ],
       "x-ms-enum": {
         "name": "StandardSupportedCloudsEnum",
-        "modelAsString": false
+        "modelAsString": true
       }
     }
   },
